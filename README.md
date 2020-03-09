@@ -27,8 +27,8 @@ Ripley
 
 ## How to Vote in DogAO
 
-DogAO runs on (Aragon)[aragon.org] 
-To login to the DogAO go to (Aragon mainnet)[https://mainnet.aragon.org/]
+DogAO runs on [Aragon](aragon.org) 
+To login to the DogAO go to [Aragon mainnet](https://mainnet.aragon.org/)
 Click open an existing organization, type 'dog'.
 Make sure DOG wallet address is active to vote.
 Doing most things in the DAO smart contract costs a small amount of Ethereum and Gas. You should already have a few bucks in your wallet.
