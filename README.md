@@ -27,7 +27,7 @@ Ripley
 
 ## How to Vote in DogAO
 
-DogAO runs on [Aragon](aragon.org) 
+DogAO runs on [Aragon](https://aragon.org) 
 To login to the DogAO go to [Aragon mainnet](https://mainnet.aragon.org/)
 Click open an existing organization, type 'dog'.
 Make sure DOG wallet address is active to vote.
