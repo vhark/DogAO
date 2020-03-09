@@ -11,8 +11,8 @@ Ripley
 
 ## How to claim wallet
 
-1. Download and install (brave browser)[https://brave.com/]
-2. Install your pass man (bitwarden)[https://bitwarden.com/]
+1. Download and install [brave browser](https://brave.com/)
+2. Install your pass man [bitwarden](https://bitwarden.com/)
 3. Go to settings hamburgers
 4. Click 'Crypto Wallets'
 5. Create New Wallet (ethereum)
